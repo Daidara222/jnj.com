@@ -1,0 +1,46 @@
+
+*{
+	margin-top: 55px;
+	padding: 0;
+	
+}
+.wrapper{
+	width: 1170px;
+	margin:auto;
+}
+	
+html{
+	font-size: 10px;
+}
+body{
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("j.jpeg");
+	height: 100vh;
+	-webkit-background-size:cover;
+	background-size:cover;
+	background-position:center center;
+	position:relative;
+}
+
+h2{
+	color: #fff;
+	font-size: 25px;
+	font-weight:700;
+	letter-spacing: 8px;
+	text-align: center;
+		font-family: Ink Free;
+}
+
+
+p{
+	font-size: 20px;
+	color:#fff;
+	line-height:5rem;
+	margin-bottom:5rem;
+	text-align: center;
+	font-family: Ink Free;
+	
+}
+
+	
+	
+	
